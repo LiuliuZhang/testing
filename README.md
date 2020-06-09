@@ -4,6 +4,4 @@
 `it.skip`   
 
 ## Istanbul
-`npm run mocha`   
-`it.only`   
-`it.skip`
+`npm run cover`   
